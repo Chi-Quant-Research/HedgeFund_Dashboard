@@ -1,0 +1,1 @@
+![Ket qua du bao AI](dashboard_result.png)
